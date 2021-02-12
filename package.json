@@ -1,0 +1,14 @@
+{
+  "name": "event-bus-broker",
+  "version": "1.0.0",
+  "description": "Event bus broker lambda handler",
+  "main": "handler.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
